@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/recipeapp-react/static/css/main.4054356d.chunk.css",
-    "main.js": "/recipeapp-react/static/js/main.be887ea8.chunk.js",
-    "main.js.map": "/recipeapp-react/static/js/main.be887ea8.chunk.js.map",
-    "runtime-main.js": "/recipeapp-react/static/js/runtime-main.19f10b0f.js",
-    "runtime-main.js.map": "/recipeapp-react/static/js/runtime-main.19f10b0f.js.map",
-    "static/js/2.f3f5273f.chunk.js": "/recipeapp-react/static/js/2.f3f5273f.chunk.js",
-    "static/js/2.f3f5273f.chunk.js.map": "/recipeapp-react/static/js/2.f3f5273f.chunk.js.map",
-    "static/js/3.70a7350f.chunk.js": "/recipeapp-react/static/js/3.70a7350f.chunk.js",
-    "static/js/3.70a7350f.chunk.js.map": "/recipeapp-react/static/js/3.70a7350f.chunk.js.map",
-    "index.html": "/recipeapp-react/index.html",
-    "static/css/main.4054356d.chunk.css.map": "/recipeapp-react/static/css/main.4054356d.chunk.css.map",
-    "static/js/2.f3f5273f.chunk.js.LICENSE.txt": "/recipeapp-react/static/js/2.f3f5273f.chunk.js.LICENSE.txt"
+    "main.css": "/recipeapp-reactjs/static/css/main.4054356d.chunk.css",
+    "main.js": "/recipeapp-reactjs/static/js/main.be887ea8.chunk.js",
+    "main.js.map": "/recipeapp-reactjs/static/js/main.be887ea8.chunk.js.map",
+    "runtime-main.js": "/recipeapp-reactjs/static/js/runtime-main.38871aa0.js",
+    "runtime-main.js.map": "/recipeapp-reactjs/static/js/runtime-main.38871aa0.js.map",
+    "static/js/2.f3f5273f.chunk.js": "/recipeapp-reactjs/static/js/2.f3f5273f.chunk.js",
+    "static/js/2.f3f5273f.chunk.js.map": "/recipeapp-reactjs/static/js/2.f3f5273f.chunk.js.map",
+    "static/js/3.70a7350f.chunk.js": "/recipeapp-reactjs/static/js/3.70a7350f.chunk.js",
+    "static/js/3.70a7350f.chunk.js.map": "/recipeapp-reactjs/static/js/3.70a7350f.chunk.js.map",
+    "index.html": "/recipeapp-reactjs/index.html",
+    "static/css/main.4054356d.chunk.css.map": "/recipeapp-reactjs/static/css/main.4054356d.chunk.css.map",
+    "static/js/2.f3f5273f.chunk.js.LICENSE.txt": "/recipeapp-reactjs/static/js/2.f3f5273f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.19f10b0f.js",
+    "static/js/runtime-main.38871aa0.js",
     "static/js/2.f3f5273f.chunk.js",
     "static/css/main.4054356d.chunk.css",
     "static/js/main.be887ea8.chunk.js"
