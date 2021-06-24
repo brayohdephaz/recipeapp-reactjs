@@ -34,6 +34,9 @@ function App() {
 
   return (
     <div className="App">
+      <div className="header">
+        <h1>WHATS YOUR FAVOURITE FOOD?</h1>
+      </div>
       <form onSubmit={getSearch} className="search-form">
         <input
           className="search-bar"
